@@ -1,7 +1,7 @@
 package com.example.mtg_helper.data.di
 
 import com.example.mtg_helper.data.ScryfallApiService
-import com.example.mtg_helper.data.remote.repository.CardRepository
+import com.example.mtg_helper.domain.repository.CardRepository
 import com.example.mtg_helper.data.remote.repository.CardRepositoryImpl
 
 import dagger.Module

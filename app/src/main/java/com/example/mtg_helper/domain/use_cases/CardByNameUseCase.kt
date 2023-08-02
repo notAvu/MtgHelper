@@ -2,7 +2,7 @@ package com.example.mtg_helper.domain.use_cases
 
 import com.example.mtg_helper.common.Resource
 import com.example.mtg_helper.data.remote.dto.toScryfallSearchResult
-import com.example.mtg_helper.data.remote.repository.CardRepository
+import com.example.mtg_helper.domain.repository.CardRepository
 import com.example.mtg_helper.domain.model.Card
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
